@@ -1,6 +1,6 @@
 public class Student extends Marks {
-    String stud_name = "Sukanya";
-    String usn = "01fe22bca138";
+    String stud_name = "Aishwarya";
+    String usn = "01fe22bca128";
     String program = "BCA";
     String dept = "Computer applications";
 
